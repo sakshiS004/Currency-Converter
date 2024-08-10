@@ -1,4 +1,4 @@
-#Currency-Converter
+# Currency-Converter
 
  **Overview:-** <br>
  The Currency Converter application allows users to convert amounts between different currencies. The application provides currency formatting based on various locales, demonstrating how different countries represent monetary values. This example includes currency formatting for the US, India, Korea, and Japan.
